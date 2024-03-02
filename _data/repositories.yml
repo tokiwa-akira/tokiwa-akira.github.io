@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - tokiwa-akira
+  - atokiwaipmu
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - atokiwaipmu/HSCSextansPMMeasurement
+  - atokiwaipmu/SR3D
+  - atokiwaipmu/SphericalUnet
+  - atokiwaipmu/LensingSSC
+  - IPMUCD3/SR-SPHERE
